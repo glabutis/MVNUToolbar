@@ -9,3 +9,4 @@ Hit the "Load Unpacked" button.
 Find the folder you stored these files in
 Hit "Select Folder"(Windows) 
 You will find a button on the top right hand side of your Chrome browser, with the rest of your Chrome Extensions
+YOU WILL HAVE TO EXTRACT THE FILES FROM THE DOWNLOADED ZIP FOLDER
