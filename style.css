@@ -21,6 +21,10 @@ a{
   color: #fff;
 }
 
+i:hover{
+  opacity: .7;
+}
+
 .heading{
   text-align: center;
   color: #fff;
