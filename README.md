@@ -1,4 +1,5 @@
 # MVNUToolbar
+CHECK THE RELEASES TAB FOR LATEST RELEASE
 The toolbar for all your MVNU needs
 This is a simple chrome extension
 To make this work:
